@@ -21,7 +21,7 @@
     "target-dir": "Glorpen\\PropelEvent",
     "autoload": {
         "psr-0": {
-            "Glorpen\\PropelEventBundle": ""
+            "Glorpen\\PropelEvent": ""
         }
     }
 }
