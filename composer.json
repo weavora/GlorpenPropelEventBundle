@@ -1,0 +1,21 @@
+{
+    "name": "real-chocopanda/glorpen-propel-event-bundle",
+    "description": "Propel events for Symfony2. This bundle allows you to inject services on object/query creation, set data from service before save and more.",
+    "minimum-stability": "dev",
+    "type": "symfony-bundle",
+    "homepage": "https://github.com/real-chocopanda/GlorpenPropelEventBundle",
+    "license": "GPL-3.0",
+    "require": {
+        "symfony/symfony": "2.*",
+        "propel/propel-bundle": "*"
+    },
+    "authors": [
+        {
+            "name": "Arkadiusz Dzięgiel"
+        },
+        {
+            "name": "Cedric LOMBARDOT",
+            "email": "cedric.lombardot@gmail.com"
+        }
+    ]
+}
