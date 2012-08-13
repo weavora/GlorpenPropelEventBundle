@@ -17,5 +17,11 @@
             "name": "Cedric LOMBARDOT",
             "email": "cedric.lombardot@gmail.com"
         }
-    ]
+    ],
+    "target-dir": "Glorpen",
+    "autoload": {
+        "psr-0": {
+            "Glorpen\\PropelEventBundle": ""
+        }
+    }
 }
