@@ -6,7 +6,7 @@
     "homepage": "https://github.com/real-chocopanda/GlorpenPropelEventBundle",
     "license": "GPL-3.0",
     "require": {
-        "symfony/symfony": "2.2.*",
+        "symfony/symfony": "<3.0",
         "propel/propel-bundle": "*"
     },
     "authors": [
